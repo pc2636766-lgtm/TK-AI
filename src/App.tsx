@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ArrowUp, AudioLines, Bot, ChevronDown, Menu, Mic, Plus, Sparkles } from 'lucide-react'
+import { ArrowUp, AudioLines, Bot, ChevronDown, Menu, Plus, Sparkles } from 'lucide-react'
 
 type Message = { role: 'assistant' | 'user'; content: string }
 
